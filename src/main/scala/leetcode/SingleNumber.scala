@@ -1,4 +1,4 @@
-import scala.collection.mutable
+package leetcode
 
 /*
 Given a non-empty array of integers, every element appears three times except for one, which appears exactly once.

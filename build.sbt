@@ -1,4 +1,4 @@
-name := "LeetCode"
+name := "Ds-Algo"
 
 version := "0.1"
 
